@@ -44,4 +44,4 @@ Perfect for lakehouses, AI/ML workloads, and teams that care about data quality 
 ✅ Best for: Modern platforms, real-time + batch, AI/ML pipelines
 ❌ Avoid if: Your pipeline is simple — this adds unnecessary layers
 
-![1772482080992.gif](../imgs/1772482080992.gif)
+![1772482080992.gif](imgs/1772482080992.gif)
